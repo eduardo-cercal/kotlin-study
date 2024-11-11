@@ -10,4 +10,9 @@ fun main() {
     val short: Short = 10
     val byte: Byte = 10
 
+    val uLong: ULong = 10u
+    val uInt: UInt = 10u
+    val uShort: UShort = 10u
+    val uByte: UByte = 10u
+
 }
